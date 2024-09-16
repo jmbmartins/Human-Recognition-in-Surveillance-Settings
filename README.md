@@ -90,7 +90,7 @@ In this project, the input images are frames from poor quality videos, and the o
 - One epoch
 - Batch Size: 32
 
-![Non-Segmented Faces Results](obtained_images/results/resultmodel_woutseg)
+![Non-Segmented Faces Results](obtained_images/final_results/resultmodel_woutseg.png)
 
 #### Segmented Faces
 
@@ -99,4 +99,4 @@ In this project, the input images are frames from poor quality videos, and the o
 - One epoch
 - Batch Size: 32
 
-![Segmented Faces Results](obtained_images/results/resultmodel_woutseg)
+![Segmented Faces Results](obtained_images/final_results/resultmodel_withseg.png)
