@@ -118,7 +118,8 @@ The results obtained from the model training were not as expected due to the fol
 
 - The model has too many parameters, which requires a lot of time to complete one epoch (approximately 26 hours). To address this, the number of layers should be reduced to decrease the number of parameters, allowing for more epochs.
 - Only one epoch was performed with a reduced percentage (25-30%) of the dataset, which **significantly limits** the final results.
-- 
+
+  
 ### To Find More
 
 - **Presentation (Portuguese)**: [Presentation-Template.pptx](Presentation-Template.pptx)
