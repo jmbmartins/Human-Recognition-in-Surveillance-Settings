@@ -111,3 +111,9 @@ In this project, the input images are frames from poor quality videos, and the o
 - Batch Size: 32
 
 ![Segmented Faces Results](obtained_images/final_results/resultmodel_withseg.png)
+
+
+### To Find More
+
+- **Presentation (Portuguese)**: [Presentation-Template.pptx](Presentation-Template.pptx)
+- **Report**: [Relatory - Human_Recogn (6).pdf](Relatory - Human_Recogn (6).pdf)
