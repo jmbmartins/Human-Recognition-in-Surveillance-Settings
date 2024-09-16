@@ -116,4 +116,4 @@ In this project, the input images are frames from poor quality videos, and the o
 ### To Find More
 
 - **Presentation (Portuguese)**: [Presentation-Template.pptx](Presentation-Template.pptx)
-- **Report**: [Relatory - Human_Recogn (6).pdf](Human_Recogn(6).pdf)
+- **Report (Portuguese)**: [Relatory - Human_Recogn (6).pdf](Human_Recogn(6).pdf)
