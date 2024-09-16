@@ -69,7 +69,7 @@ The Pix2Pix model is a type of Generative Adversarial Network (GAN) aimed at map
 In this project, the input images are frames from poor quality videos, and the output images are frames from good quality videos. The goal is to train the model to generate high-quality images from low-quality images.
 
 #### U-Net Architecture
-![Non-Segmented Faces Results](pix2pix_model.ipynb)
+[Colab Implementation Code](pix2pix_model.ipynb)
 - **Total Parameters**: 54,425,859 (207.62 MB)
 - **Trainable Parameters**: 54,414,979 (207.58 MB)
 - **Non-trainable Parameters**: 10,880 (42.50 KB)
